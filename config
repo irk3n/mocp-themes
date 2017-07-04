@@ -221,7 +221,7 @@ ShowTimePercent = yes
 #
 # Example:    Theme = laras_theme
 #
-Theme = irk3n_theme
+Theme = irk3n_theme_v2_transparent
 
 # The theme used when running on an xterm.
 #
